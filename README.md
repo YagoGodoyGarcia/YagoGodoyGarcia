@@ -12,13 +12,17 @@
 
 :mag: **I am looking for replacement as a software developer in companies with clt regime** <img height="30" src="https://media.tenor.com/images/22e8b06290016a982285cf941e339276/tenor.gif"> 
 
-[![Yago Godoy github stats](https://github-readme-stats.vercel.app/api?username=YagoGodoyGarcia)](https://github.com/YagoGodoyGarcia/github-readme-stats)
-
+<a href="https://github.com/ErickRock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YagoGodoyGarcia&theme=dracula&&show_icons=true">
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoGodoyGarcia=compact&show_icons=true&theme=dracula"/>
+</a>
 <a href="https://github.com/YagoGodoyGarcia/sensor-simulator">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=sensor-simulator" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=sensor-simulator&theme=dracula" />
 </a>
 <a href="https://github.com/YagoGodoyGarcia/crud-php">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=crud-php" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=crud-php&theme=dracula" />
 </a>
 
 ## Languages and Technologies I use daily
