@@ -14,10 +14,10 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=YagoGodoyGarcia&show_icons=true">
 
-<a href="https://github.com/YagoGodoyGarcia/oh-my-zsh-on-windows-terminal">
+<a href="https://github.com/YagoGodoyGarcia/sensor-simulator">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=sensor-simulator" />
 </a>
-<a href="https://github.com/YagoGodoyGarcia/oh-my-zsh-on-windows-terminal">
+<a href="https://github.com/YagoGodoyGarcia/crud-php">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=crud-php" />
 </a>
 
