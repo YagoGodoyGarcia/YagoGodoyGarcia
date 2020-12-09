@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YagoGodoyGarcia&theme=dracula&&show_icons=true">
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoGodoyGarcia=compact&show_icons=true&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
 </a>
 <a href="https://github.com/YagoGodoyGarcia/sensor-simulator">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=sensor-simulator&theme=dracula" />
