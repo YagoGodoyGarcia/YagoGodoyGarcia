@@ -12,7 +12,7 @@
 
 :mag: **I am looking for replacement as a software developer in companies with clt regime** <img height="30" src="https://media.tenor.com/images/22e8b06290016a982285cf941e339276/tenor.gif"> 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=YagoGodoyGarcia&show_icons=true">
+[![Yago Godoy github stats](https://github-readme-stats.vercel.app/api?username=YagoGodoyGarcia)](https://github.com/YagoGodoyGarcia/github-readme-stats)
 
 <a href="https://github.com/YagoGodoyGarcia/sensor-simulator">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=YagoGodoyGarcia&repo=sensor-simulator" />
