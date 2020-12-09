@@ -8,7 +8,7 @@
 
 :man_technologist: <strong>I'm a Software Developer</strong>
 
-I am currently working with freelance projects as a Full Stack Developer
+:computer: I am currently working with freelance projects as a Full Stack Developer
 
 :mag: **I am looking for replacement as a software developer in companies with clt regime** <img height="30" src="https://media.tenor.com/images/22e8b06290016a982285cf941e339276/tenor.gif"> 
 
